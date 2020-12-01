@@ -1,3 +1,5 @@
+<?php 
+
 function revertCharacters($str)
 {
     $index = strlen($str) - 1;
